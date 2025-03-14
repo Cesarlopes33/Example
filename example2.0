@@ -57,10 +57,7 @@ BT
 ET
 endstream
 endobj
-trailer
-<< /Size 8
-/Root 1 0 R
->>
+
 xref
 0 8
 0000000000 65535 f
@@ -71,4 +68,9 @@ xref
 0000000297 00000 n
 0000000377 00000 n
 0000000455 00000 n
+
+trailer
+<< /Size 8
+/Root 1 0 R
+>>
 %%EOF
